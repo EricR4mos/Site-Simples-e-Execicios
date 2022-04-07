@@ -1,2 +1,2 @@
 # Site-Simples-e-Execicios
-Primeira vez com html e css
+Primeira vez com html e css.
